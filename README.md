@@ -1,2 +1,2 @@
-# JsCachedFetch
-Caching fetch results
+# JsonCachedPromise
+Caching promises json results
