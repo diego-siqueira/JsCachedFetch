@@ -1,0 +1,2 @@
+# JsCachedFetch
+Caching fetch results
