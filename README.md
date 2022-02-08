@@ -1,2 +1,2 @@
 # JsonCachedPromise
-Caching promises json results
+Caching for promises json results
